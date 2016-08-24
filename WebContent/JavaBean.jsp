@@ -1,3 +1,12 @@
+<!--  
+* Student: Eduardo Aguirre
+* Session 12
+* Assignment 4
+* Java Server Page that shows the use of a Java Bean 
+*/
+-->
+
+
 <%@ page language="java" contentType="text/html;charset=UTF-8" %>
 <%@ page import="com.acadgild.JavaBeanSample" %> <!-- Import the JavaBean Sample -->
 
